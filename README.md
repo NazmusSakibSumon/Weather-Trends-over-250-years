@@ -1,2 +1,2 @@
 # Weather-Trends-over-250-years
-I will compare the global weather trend with my city's (Atlanta) weather trend from  year 1750 to year 2013
+Global temperature data and various cities’ temperature data have been given. The issue is to find out Weather trend over a long period of time and to compare the trend with local trend. 
